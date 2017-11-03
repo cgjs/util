@@ -29,6 +29,6 @@
   "homepage": "https://github.com/cgjs/util#readme",
   "dependencies": {},
   "devDependencies": {
-    "cgjs": "^0.1.6"
+    "cgjs": "^0.1.8"
   }
 }
